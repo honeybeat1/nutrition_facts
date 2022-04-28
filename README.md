@@ -1,6 +1,13 @@
 # nutrition_facts
 EDA food nutrition facts DataBase from foodsafetykorea 
 
+## 가장 먼저 해야할 것 : 식품영양성분 지식 쌓기
+![image](https://user-images.githubusercontent.com/40647396/165733505-b1178b5b-2b77-4b44-8e5a-f8e2be25323a.png)
+
+재료(농축수산물)가 레시피를 통해 함량이 변화되어 음식으로 만들어진다. (이 과정에서 영양성분 또한 변화)
+
+
+
 
 ## Tidy Data
 1. 각 변수는 개별의 열(column)으로 존재한다.
