@@ -8,7 +8,7 @@ EDA food nutrition facts DataBase from foodsafetykorea
 
 | Index | Title | Insight |
 | :---: | :---: | :-----: |
-| 1 | 영양성분 | 영양성분에 대해 알아보자 | 
+| 1 | 영양성분 구조 | 영양성분 위계? 구조?에 대해 알아보자 | 
 
 
 
