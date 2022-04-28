@@ -6,6 +6,9 @@ EDA food nutrition facts DataBase from foodsafetykorea
 
 재료(농축수산물)가 레시피를 통해 함량이 변화되어 음식으로 만들어진다. (이 과정에서 영양성분 또한 변화)
 
+| Index | Title | Insight |
+| :---: | :---: | :-----: |
+| 1 | 영양성분 | 영양성분에 대해 알아보자 | 
 
 
 
